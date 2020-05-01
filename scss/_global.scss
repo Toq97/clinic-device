@@ -11,3 +11,9 @@ h6 {
   @include body-font;
   font-weight: 700;
 }
+.bg-light {
+  background-color: $white!important;
+}
+.logo-size {
+max-height: 120px;
+}
