@@ -15,5 +15,8 @@ h6 {
   background-color: $white!important;
 }
 .logo-size {
-max-height: 120px;
+max-height: 80px;
+}
+.nav-bar-shadow {
+  box-shadow: 0 3px 6px -2px $black-menu-shadow;
 }
